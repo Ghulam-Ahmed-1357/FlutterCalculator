@@ -1,0 +1,2 @@
+
+It is a single page application. This calculator supports basic operations such as addition, subtraction, multiplication, division and modulus(remainder). It also supports decimal number operations. 
